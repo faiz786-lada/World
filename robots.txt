@@ -1,0 +1,15 @@
+# robots.txt for The World of Cybersecurity
+User-agent: *
+Allow: /
+Disallow: /admin-panel
+Disallow: /assets/private/
+Disallow: /firebase-config
+
+# Sitemap location
+Sitemap: https://theworldofcybersecurity.netlify.app/sitemap.xml
+
+# Crawl delay to avoid server overload (optional)
+Crawl-delay: 1
+
+# Host directive (optional, for better SEO)
+Host: https://theworldofcybersecurity.netlify.app
