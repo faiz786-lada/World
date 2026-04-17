@@ -6,10 +6,10 @@ Disallow: /assets/private/
 Disallow: /firebase-config
 
 # Sitemap location
-Sitemap: https://theworldofcybersecurity.netlify.app/sitemap.xml
+Sitemap: https://theworldofcybersecuritys.netlify.app/sitemap.xml
 
 # Crawl delay to avoid server overload (optional)
 Crawl-delay: 1
 
 # Host directive (optional, for better SEO)
-Host: https://theworldofcybersecurity.netlify.app
+Host: https://theworldofcybersecuritys.netlify.app
